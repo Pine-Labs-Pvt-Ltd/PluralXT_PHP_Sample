@@ -1,1 +1,1 @@
-# PluralXT_PHP_Sample 
+# PluralXT_PHP_Sample
